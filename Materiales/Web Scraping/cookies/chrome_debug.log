@@ -1,0 +1,15 @@
+[25022:259:0922/174444.032097:WARNING:chrome_main_delegate.cc(747)] This is Chrome version 129.0.6668.59 (not a warning)
+[25022:259:0922/174444.621459:INFO:chrome_browser_cloud_management_controller.cc(196)] No machine level policy manager exists.
+[25028:259:0922/174445.227666:WARNING:viz_main_impl.cc(85)] VizNullHypothesis is disabled (not a warning)
+[25022:259:0922/174455.085555:WARNING:controller_impl.cc(1192)] Background download complete, client: 6, completion type: 0, file size:265059
+[25022:259:0922/174455.103486:WARNING:controller_impl.cc(1192)] Background download complete, client: 6, completion type: 0, file size:5156
+[25022:259:0922/174455.525604:WARNING:controller_impl.cc(1192)] Background download complete, client: 6, completion type: 0, file size:2200227
+[25022:259:0922/174455.545545:WARNING:controller_impl.cc(1192)] Background download complete, client: 6, completion type: 0, file size:883094
+[25022:259:0922/174455.691450:WARNING:controller_impl.cc(1192)] Background download complete, client: 6, completion type: 0, file size:45159
+[25022:259:0922/174455.869787:WARNING:controller_impl.cc(1192)] Background download complete, client: 6, completion type: 0, file size:4680
+[25022:259:0922/174456.017718:WARNING:controller_impl.cc(1192)] Background download complete, client: 6, completion type: 0, file size:7794
+[25022:259:0922/174458.491297:WARNING:controller_impl.cc(1192)] Background download complete, client: 6, completion type: 0, file size:2747170
+[25022:259:0922/174458.926797:WARNING:controller_impl.cc(1192)] Background download complete, client: 6, completion type: 0, file size:1463571
+[25022:259:0922/174500.061979:WARNING:controller_impl.cc(1192)] Background download complete, client: 6, completion type: 0, file size:68665978
+[25022:259:0922/174531.782259:ERROR:gpu_process_host.cc(980)] GPU process exited unexpectedly: exit_code=15
+[25022:259:0922/174531.782737:WARNING:gpu_process_host.cc(1414)] The GPU process has crashed 1 time(s)
